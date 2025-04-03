@@ -12,3 +12,4 @@ C:\Users\JANIDU\Desktop\datastructures\app\MyApp\obj\Debug\net9.0\refint\MyApp.d
 C:\Users\JANIDU\Desktop\datastructures\app\MyApp\obj\Debug\net9.0\MyApp.pdb
 C:\Users\JANIDU\Desktop\datastructures\app\MyApp\obj\Debug\net9.0\MyApp.genruntimeconfig.cache
 C:\Users\JANIDU\Desktop\datastructures\app\MyApp\obj\Debug\net9.0\ref\MyApp.dll
+C:\Users\JANIDU\Desktop\datastructures\app\MyApp\obj\Debug\net9.0\MyApp.sourcelink.json
