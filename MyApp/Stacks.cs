@@ -1,16 +1,20 @@
 // Data Structures Stacks
 using System.Collections.Generic;
+
+
 namespace MyApp
 {
+
     public class Stacks
     {
 
         public static void DisplayStack()
         {
+            // last in last out 
             Stack<string> names = new Stack<string>();
 
             // add eliments to a stack
-
+            Console.WriteLine("What is a stack in data structures ?");
             names.Push("Janidu");
             names.Push("Kavindu");
             names.Push("Ravindu");
@@ -28,7 +32,7 @@ namespace MyApp
             Console.WriteLine(names.Peek());
 
 
-            // search an eliments - true or false
+            // search an eliment - true or false
 
             Console.WriteLine(names.Contains("Kavindu"));
 
